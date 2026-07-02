@@ -12,7 +12,7 @@ Atualmente desenvolvo projetos para aprimorar minhas habilidades em desenvolvime
 - Automação
 - APIs REST
 - Inteligência Artificial
-- POO
+  
 
 ## 📂 Projetos
 
