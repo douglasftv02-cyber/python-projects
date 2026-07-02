@@ -1,31 +1,44 @@
-# Python Projects
+# 👋 Olá, eu sou Douglas Magalhães
 
-Welcome to my Python projects repository!
+Estudante de Ciência da Computação com foco em desenvolvimento em Python, automação e Inteligência Artificial.
 
-This repository contains projects developed during my Computer Science studies. The goal is to improve my programming skills while building applications related to automation, algorithms, and Artificial Intelligence.
+Atualmente desenvolvo projetos para aprimorar minhas habilidades em desenvolvimento de software, resolução de problemas e aplicações utilizando IA.
 
-## Technologies
+## 🚀 Tecnologias
 
 - Python
-- Git
-- GitHub
+- Git & GitHub
+- SQL
+- Automação
+- APIs REST
+- Inteligência Artificial
+- POO
 
-## Current Projects
+## 📂 Projetos
 
-- Password Generator
-- Calculator
-- Student Management System
-- Expense Tracker
-- AI Resume Analyzer (Coming Soon)
+### 🔐 Gerador de Senhas
+Aplicação para geração de senhas seguras com critérios personalizados.
 
-## Goals
+### 🧮 Calculadora
+Projeto para prática de lógica de programação e orientação a objetos.
 
-- Improve Python programming skills
-- Learn software development best practices
-- Build AI-related applications
-- Create a professional portfolio
+### 🎓 Sistema de Gestão de Alunos
+Sistema CRUD para cadastro, consulta e gerenciamento de alunos.
 
-## Author
+### 💰 Rastreador de Despesas
+Aplicação para controle financeiro pessoal.
 
-Douglas V. M. P.
-Computer Science Student
+### 🤖 Analisador de Currículos com IA *(Em desenvolvimento)*
+Ferramenta que utiliza IA para analisar currículos e fornecer sugestões de melhoria.
+
+## 🎯 Objetivos
+
+- Desenvolvimento Backend
+- Inteligência Artificial
+- Automação de Processos
+- Engenharia de Software
+
+## 📫 Contato
+
+- LinkedIn: seu_link
+- Email: seu_email
