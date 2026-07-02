@@ -20,15 +20,6 @@ O sistema permite cadastrar, consultar, editar e excluir alunos, além de salvar
 - ✅ Salvar os dados automaticamente em um arquivo (`alunos.txt`)
 - ✅ Carregar os dados ao iniciar o sistema
 
----
-
-## 📸 Demonstração
-
-> Adicione aqui uma imagem do sistema em execução.
-
-![Sistema de Gestão de Alunos](sistema.png)
-
----
 
 ## 🚀 Como executar
 
