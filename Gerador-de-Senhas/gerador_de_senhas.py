@@ -1,44 +1,25 @@
 import random
 import string
 
+print("=" * 35)
+print("      GERADOR DE SENHAS")
+print("=" * 35)
 
-def generate_password(length):
-    """Generate a random password."""
+# Pergunta o tamanho da senha
+tamanho = int(input("Digite o tamanho da senha: "))
 
-    characters = (
-        string.ascii_letters +
-        string.digits +
-        string.punctuation
-    )
+# Caracteres disponíveis
+letras = string.ascii_letters
+numeros = string.digits
+simbolos = string.punctuation
 
-    password = ""
+caracteres = letras + numeros + simbolos
 
-    for _ in range(length):
-        password += random.choice(characters)
+# Gera a senha
+senha = ""
 
-    return password
+for i in range(tamanho):
+    senha += random.choice(caracteres)
 
-
-def main():
-    print("=" * 40)
-    print("      PYTHON PASSWORD GENERATOR")
-    print("=" * 40)
-
-    try:
-        length = int(input("Enter password length: "))
-
-        if length < 4:
-            print("Password must have at least 4 characters.")
-            return
-
-        password = generate_password(length)
-
-        print("\nGenerated Password:")
-        print(password)
-
-    except ValueError:
-        print("Please enter a valid number.")
-
-
-if __name__ == "__main__":
-    main()
+print("\nSua senha gerada é:")
+print(senha)
