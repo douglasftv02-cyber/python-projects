@@ -22,7 +22,7 @@ Sou estudante de **Ciência da Computação** e utilizo este repositório para c
 |----------|-----------|--------|
 | 🔐 Gerador de Senhas | Gera senhas seguras e personalizadas. | ✅ Concluído |
 | 🧮 Calculadora | Calculadora desenvolvida em Python. | ✅ Concluído |
-| 🎓 Sistema de Gestão de Alunos | Cadastro e gerenciamento de alunos. | 🚧 Em desenvolvimento |
+| 🎓 Sistema de Gestão de Alunos | Cadastro e gerenciamento de alunos. | ✅ Concluído |
 | 💰 Rastreador de Despesas | Sistema para controle financeiro pessoal. | 🚧 Em desenvolvimento |
 | 🤖 Analisador de Currículos com IA | Projeto utilizando Inteligência Artificial para análise de currículos. | ⏳ Em breve |
 
